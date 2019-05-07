@@ -12,7 +12,7 @@ namespace Engine
         public int maxHitPoints { get; set; }
         public int gold { get; set; }
         public int experience { get; set; }
-        public int Level { get; set; }
+        public int level { get; set; }
 
         public override bool Equals(object obj)
         {
